@@ -1,8 +1,10 @@
-body {background-color: #F6F6C9;}
+body {background-color: #CAE4DB;}
 hr {
   border-style: dotted none none;
-  border-color: #4FA095;
+  border-color: #CDAC81;
   border-width: 5px;
   width: 5%;
 }
 img {height: 150px;}
+h1 {color: #00303F}
+h3 {color: #00303F}
